@@ -1,5 +1,7 @@
-[
-  {
-    "name": "default"
-  }
-]
+{
+  "accounts": [
+    {
+      "name": "default"
+    }
+  ]
+}
