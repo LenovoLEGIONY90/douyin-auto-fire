@@ -1,14 +1,5 @@
-{
-  "accounts": [
-    {
-      "id": "account1",
-      "enabled": true,
-      "env_file": ".env.account1"
-    },
-    {
-      "id": "account2",
-      "enabled": true,
-      "env_file": ".env.account2"
-    }
-  ]
-}
+[
+  {
+    "name": "default"
+  }
+]
