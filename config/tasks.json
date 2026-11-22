@@ -1,0 +1,22 @@
+{
+  "timezone": "Asia/Shanghai",
+  "task_id": "daily-streak",
+  "targets": [
+    {
+      "name": "轨迹",
+      "messages": [
+        {
+          "type": "text",
+          "content": "今天也要开心"
+        }
+      ]
+    }
+  ],
+  "send_interval_seconds": {
+    "min": 3,
+    "max": 8
+  },
+  "continue_on_error": true,
+  "target_open_retries": 1,
+  "target_open_timeout_seconds": 15
+}
