@@ -1,6 +1,7 @@
 {
   "accounts": [
     {
+      "id": "default",
       "name": "default"
     }
   ]
