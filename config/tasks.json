@@ -8,9 +8,14 @@
         {
           "type": "text",
           "content": "今天也要开心"
+        },
+        {
+          "type": "douyin_sticker",
+          "sticker": "比心"
         }
       ]
-    }
+    },
+    
   ],
   "send_interval_seconds": {
     "min": 3,
