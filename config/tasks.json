@@ -15,7 +15,24 @@
         }
       ]
     },
-    
+    {
+      "name": "人人人人帮",
+      "messages": [
+        {
+          "type": "random",
+          "choices": [
+            {
+              "type": "text",
+              "content": "早上好"
+            },
+            {
+              "type": "douyin_sticker",
+              "sticker": "开心"
+            }
+          ]
+        }
+      ]
+    }
   ],
   "send_interval_seconds": {
     "min": 3,
